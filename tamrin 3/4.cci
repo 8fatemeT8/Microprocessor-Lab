@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:52DD96DA
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:C LEVEL:0 LINE:27 "digit -> FLASH"
+NODE:V LEVEL:0 LINE:34 "floor -> R4,R5"
+NODE:V LEVEL:0 LINE:35 "target -> R6,R7"
+NODE:F LEVEL:0 LINE:38 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:55 "main(void)"
+NODE:F LEVEL:0 LINE:279 "opendoor(void)"
